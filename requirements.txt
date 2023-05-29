@@ -1,0 +1,6 @@
+base64
+pandas
+streamlit
+langchain
+sqlite3
+sqlalchemy
