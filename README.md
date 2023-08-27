@@ -1,6 +1,6 @@
 # CSV Agent for Data Analysis (SQLite)
 
-This is an AI-powered data analysis tool that reads a csv file, imports the data into a SQLite db, and provides a conversational interface for querying the data using natural language. It uses the `OpenAI` model for natural language understanding and `SQLDatabaseToolkit` from `langchain` for database operations.
+This is an AI-powered data analysis tool that reads a csv file, imports the data into SQLite db, and provides a conversational interface for querying the data using natural language. It uses the `OpenAI` model for natural language understanding and `SQLDatabaseToolkit` from `langchain` for database operations.
 
 ## Features
 * Upload CSV file and create a SQLite database.
